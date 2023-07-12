@@ -1,13 +1,13 @@
-package com.dslist.springvscode;
+package com.intensicaojavaspring.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringVscodeApplication {
+public class DemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringVscodeApplication.class, args);
+		SpringApplication.run(DemoApplication.class, args);
 	}
 
 }

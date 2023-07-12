@@ -1,10 +1,10 @@
-package com.dslist.springvscode;
+package com.intensicaojavaspring.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringVscodeApplicationTests {
+class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
