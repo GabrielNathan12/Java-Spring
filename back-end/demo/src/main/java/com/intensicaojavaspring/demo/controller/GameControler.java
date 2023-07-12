@@ -1,4 +1,4 @@
-package com.intensicaojavaspring.demo.controler;
+package com.intensicaojavaspring.demo.controller;
 
 import java.util.List;
 
